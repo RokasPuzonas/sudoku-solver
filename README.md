@@ -22,7 +22,7 @@ The application can be launched with the following command:
 ```bash
 python main.py
 ```
-You can change the starting board by editing `board.txt` in the root directory. Each line must have 9 whitespace seperated values ranging from 0-9, 0 meaning that the cell is empty. There must be 9 lines for in total of 81 values. If the number of values wasen't 81 the board will be blank. Here is an example of how it should look like:
+You can change the starting board by editing `board.txt` in the root directory. Each line must have 9 whitespace seperated values ranging from 0-9, 0 meaning that the cell is empty. There must be 9 lines for in total of 81 values. If the number of values wasn't 81 the board will be blank. Here is an example of how it should look like:
 ```
 0 0 5 0 0 1 2 7 4
 2 0 0 0 0 5 0 0 0
