@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Usage
 ============
 
-The application can by launched with the following command:
+The application can be launched with the following command:
 ```bash
 python main.py
 ```
